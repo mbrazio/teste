@@ -1,3 +1,4 @@
 # teste
 diretorio teste
 teste
+.
